@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Fitness-World/static/css/main.05258a49.css",
-    "main.js": "/Fitness-World/static/js/main.62506387.js",
+    "main.css": "/Fitness-World/static/css/main.14249c29.css",
+    "main.js": "/Fitness-World/static/js/main.caf0d0e6.js",
     "static/media/ssi2.PNG": "/Fitness-World/static/media/ssi2.f946e9326c3ba3e995b7.PNG",
     "static/media/IMG_3.PNG": "/Fitness-World/static/media/IMG_3.6122edb534eae7eee67f.PNG",
     "static/media/Fit-man.png": "/Fitness-World/static/media/Fit-man.e4b5e1bfaf7b16e52b31.png",
@@ -22,6 +22,7 @@
     "static/media/F-logo .png": "/Fitness-World/static/media/F-logo .d1139c4f4026a28dfbcc.png",
     "static/media/food.jpeg": "/Fitness-World/static/media/food.aeb7c464e9ffccc77f32.jpeg",
     "static/media/card-bg1.jpeg": "/Fitness-World/static/media/card-bg1.50985f1743035fbd389c.jpeg",
+    "static/media/svgimg.png": "/Fitness-World/static/media/svgimg.f80b66ad326f5fb0835b.png",
     "static/media/bent.jpeg": "/Fitness-World/static/media/bent.38b9c2ceea1602fefbc4.jpeg",
     "static/media/fat.png": "/Fitness-World/static/media/fat.67e7feddf092a240ad57.png",
     "static/media/Img1.png": "/Fitness-World/static/media/Img1.bedba0d5934eb33f58f2.png",
@@ -38,11 +39,11 @@
     "static/media/slick.ttf": "/Fitness-World/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Fitness-World/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Fitness-World/index.html",
-    "main.05258a49.css.map": "/Fitness-World/static/css/main.05258a49.css.map",
-    "main.62506387.js.map": "/Fitness-World/static/js/main.62506387.js.map"
+    "main.14249c29.css.map": "/Fitness-World/static/css/main.14249c29.css.map",
+    "main.caf0d0e6.js.map": "/Fitness-World/static/js/main.caf0d0e6.js.map"
   },
   "entrypoints": [
-    "static/css/main.05258a49.css",
-    "static/js/main.62506387.js"
+    "static/css/main.14249c29.css",
+    "static/js/main.caf0d0e6.js"
   ]
 }
