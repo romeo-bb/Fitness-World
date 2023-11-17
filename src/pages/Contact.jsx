@@ -32,7 +32,7 @@ const Contact = () => {
   };
 
   return (
-    <div className="h-auto w-full flex justify-center bg-[#f2f2f2]">
+    <div className="h-auto w-full flex justify-center bg-transparent">
       <NavConatct />
       <div className="container h-auto min-w-[355px]">
       <div className='py-[120px]'>
