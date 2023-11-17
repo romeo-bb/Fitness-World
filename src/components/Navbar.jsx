@@ -29,8 +29,8 @@ const Navbar = () => {
 
   return (
     <>
-      <div className="flex w-full items-center h-20 z-30 px-20 xsm:px-2 text-black justify-center bg-transparent absolute">
-        <div className="flex justify-between w-full max-w-[1600px] items-center">
+      <div className='bg-transparent flex w-full justify-center items-center h-20 md:px-20 xsm:px-5 z-30 text-black absolute'>
+        <div className="w-full max-w-[1300px] flex justify-between items-center">
           <div>
             <Link to="/">
               <img
@@ -109,8 +109,8 @@ const Navbar = () => {
               </li>
             </Link>
           ))}
-          <ScrollLink to="about" spy={true} smooth={true} duration={500}>
-            <li className="p-4 text-3xl font-primary text-white">About</li>
+          <ScrollLink onClick={handleNav} to="about" spy={true} smooth={true} duration={500}>
+            <li className="p-4 text-3xl font-primary text-white cursor-pointer">About</li>
           </ScrollLink>
           {links2.map((link, index) => (
             <Link to={link.to} key={index}>
