@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Fitness-World/static/css/main.14249c29.css",
-    "main.js": "/Fitness-World/static/js/main.caf0d0e6.js",
+    "main.css": "/Fitness-World/static/css/main.681e3107.css",
+    "main.js": "/Fitness-World/static/js/main.1ae44a0f.js",
     "static/media/ssi2.PNG": "/Fitness-World/static/media/ssi2.f946e9326c3ba3e995b7.PNG",
     "static/media/IMG_3.PNG": "/Fitness-World/static/media/IMG_3.6122edb534eae7eee67f.PNG",
     "static/media/Fit-man.png": "/Fitness-World/static/media/Fit-man.e4b5e1bfaf7b16e52b31.png",
@@ -39,11 +39,11 @@
     "static/media/slick.ttf": "/Fitness-World/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Fitness-World/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Fitness-World/index.html",
-    "main.14249c29.css.map": "/Fitness-World/static/css/main.14249c29.css.map",
-    "main.caf0d0e6.js.map": "/Fitness-World/static/js/main.caf0d0e6.js.map"
+    "main.681e3107.css.map": "/Fitness-World/static/css/main.681e3107.css.map",
+    "main.1ae44a0f.js.map": "/Fitness-World/static/js/main.1ae44a0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.14249c29.css",
-    "static/js/main.caf0d0e6.js"
+    "static/css/main.681e3107.css",
+    "static/js/main.1ae44a0f.js"
   ]
 }
