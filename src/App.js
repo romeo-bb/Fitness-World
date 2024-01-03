@@ -12,7 +12,7 @@ import Calories from './pages/BlogDetails/Calories';
 function App() {
   return (
     <div>
-      <Router basename='/Fitness-World'>
+      <Router>
         <Routes >
           <Route path="/" element={<Home />} />
           <Route path="/blog" element={<Blog />}/>
