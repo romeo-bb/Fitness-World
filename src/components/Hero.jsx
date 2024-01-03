@@ -1,5 +1,5 @@
 import React from "react";
-import img3 from "../image/IMG_3.PNG";
+import img3 from "../image/IMG_3.webp";
 import { Link as ScrollLink, animateScroll as scroll } from "react-scroll";
 
 const Hero = () => {
